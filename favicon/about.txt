@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Mukta Vaani
+- Font Author: Copyright (c) 2016, Ek Type. All rights reserved.
+- Font Source: http://fonts.gstatic.com/s/muktavaani/v13/3JnkSD_-ynaxmxnEfVHPIGWlUMBD-u97MW1a.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
